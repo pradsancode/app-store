@@ -175,4 +175,13 @@ hr {
     font-size: xx-small;
 }
 
+.produk-kosong img {
+    width: 100%;
+    padding: 0 20%;
+}
+
+.produk-kosong p {
+    width: 100%;
+    padding: 0 10%;
+}
 /* ===== HALAMAN END ====== */
