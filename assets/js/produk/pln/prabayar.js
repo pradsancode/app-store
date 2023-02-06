@@ -2,56 +2,56 @@ var db_PLN_Prabayar = [
     [
         "1",
         "Token 20.000",
-        "Token PLN",
+        "Listrik",
         "21000",
-        "PLN Prabayar",
-        "Voucher isi ulang listrik (Token PLN).<br>Nomor TOKEN ada pada SN.",
-        "'https://armaonestore.webtoko.net/produk/token-20-000-1632025'"
+        "-",
+        "Voucher Isi Ulang Listrik Prabayar",
+        "'https://armaonestore.webtoko.net/produk/token-20-000-1701210'"
     ],
     [
         "2",
         "Token 50.000",
-        "Token PLN",
+        "Listrik",
         "51000",
-        "PLN Prabayar",
-        "Voucher isi ulang listrik (Token PLN).<br>Nomor TOKEN ada pada SN.",
-        "'https://armaonestore.webtoko.net/produk/token-50-000-1632044'"
+        "-",
+        "Voucher Isi Ulang Listrik Prabayar",
+        "'https://armaonestore.webtoko.net/produk/token-50-000-1701213'"
     ],
     [
         "3",
         "Token 100.000",
-        "Token PLN",
+        "Listrik",
         "101000",
-        "PLN Prabayar",
-        "Voucher isi ulang listrik (Token PLN).<br>Nomor TOKEN ada pada SN.",
-        "'https://armaonestore.webtoko.net/produk/token-100-000-1632048'"
+        "-",
+        "Voucher Isi Ulang Listrik Prabayar",
+        "'https://armaonestore.webtoko.net/produk/token-100-000-1701217'"
     ],
     [
         "4",
         "Token 200.000",
-        "Token PLN",
+        "Listrik",
         "201000",
-        "PLN Prabayar",
-        "Voucher isi ulang listrik (Token PLN).<br>Nomor TOKEN ada pada SN.",
-        "'https://armaonestore.webtoko.net/produk/token-200-000-1632050'"
+        "-",
+        "Voucher Isi Ulang Listrik Prabayar",
+        "'https://armaonestore.webtoko.net/produk/token-200-000-1701218'"
     ],
     [
         "5",
         "Token 500.000",
-        "Token PLN",
+        "Listrik",
         "501000",
-        "PLN Prabayar",
-        "Voucher isi ulang listrik (Token PLN).<br>Nomor TOKEN ada pada SN.",
-        "'https://armaonestore.webtoko.net/produk/token-500-000-1632054'"
+        "-",
+        "Voucher Isi Ulang Listrik Prabayar",
+        "'https://armaonestore.webtoko.net/produk/token-500-000-1701221'"
     ],
     [
         "6",
         "Token 1.000.000",
-        "Token PLN",
-        "1001000",
-        "PLN Prabayar",
-        "Voucher isi ulang listrik (Token PLN).<br>Nomor TOKEN ada pada SN.",
-        "'https://armaonestore.webtoko.net/produk/token-1-000-000-1632059'"
+        "Listrik",
+        "501000",
+        "-",
+        "Voucher Isi Ulang Listrik Prabayar",
+        "'https://armaonestore.webtoko.net/produk/token-1-000-000-1701223'"
     ]
 ];
 

@@ -1,12 +1,12 @@
 var db_PLN_Pascabayar = [
     [
         "1",
-        "Bayar Tagihan listrik",
-        "Listrik",
-        "0",
         "PLN Pascabayar",
-        "Bayar tagihan rekening listrik PLN<br>",
-        "'https://armaonestore.webtoko.net/produk/bayar-tagihan-listrik-1660440'"
+        "Tgihan PLN",
+        "0",
+        "-",
+        "Bayar Tagihan Listrik PLN",
+        "'https://armaonestore.webtoko.net/produk/pln-pascabayar-1701231'"
     ]
 ];
 
