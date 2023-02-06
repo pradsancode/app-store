@@ -1,0 +1,178 @@
+* {
+    box-sizing: border-box;
+}
+
+hr {
+    height: 8px;
+    border: 12px solid #F4F4F4;
+}
+
+/*  ===== WARNA ======= */
+.eaeaea {
+    background-color: #eaeaea;
+}
+
+/*========= HOME START=========*/
+.home-konten {
+    margin-top: 10px;
+}
+
+/* ======= KOTAK BERJALAN ======= */
+.kotak-berjalan {
+    background-color: #1e73be;
+    color: #fff;
+    font-family: "Poppins";
+    border-radius: 10px;
+    padding: 5px;
+    margin: 2%;
+    margin-bottom: 10px;
+    width: 96%;
+    height: 28px;
+    float: left;
+    font-size: 10px;
+    position: relative;
+    z-index: 2;
+    overflow: ellipsis;
+}
+
+.kotak-berjalan img {
+    border-radius: 100px;
+    width: 8%;
+    height: auto;
+    padding: 0px;
+    background-color: transparent;
+    float: left;
+    margin-top: -5px;
+}
+
+.kotak-berjalan marquee {
+    color: #fff;
+    font-family: 'urbanist', sans-serif;
+    font-size: 13px;
+    margin-top: -1px;
+    margin-bottom: 0px;
+    border-radius: 5px;
+    width: 92%
+}
+
+/* ======== MENU =========== */
+.daftar-menu {
+    margin-top: 15px;
+}
+
+.daftar-menu .menu button {
+    width: 21%;
+    margin: 2%;
+    float: left;
+    border: none;
+    background-color: #fff;
+}
+
+.daftar-menu .menu button img {
+    padding: 0 5px 5px 5px;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.daftar-menu .menu button h3 {
+    font-size: 11px;
+    font-weight: 600;
+}
+
+.daftar-menu .menu a button:hover {
+    color: #1e73be;
+}
+
+/*========= HOME END =========*/
+
+
+/* ========= HALAMAN ======== */
+.konten-produk {
+    width: 90%;
+    margin: 0 5%;
+}
+
+.kotak-input {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #1e73be;
+    color: #ffffff;
+}
+
+.form-input {
+    width: 90%;
+    margin: 20px 5%;
+}
+
+.btn-tengah {
+    margin: 0 3px;
+}
+
+.kotak-menu {
+    width: 88%;
+    float: left;
+    margin-right: 2%;
+}
+
+.kotak-menu button {
+    width: 50%;
+}
+
+.kotak-bantuan {
+    width: 10%;
+}
+
+.kotak-bantuan button {
+    width: 100%;
+    font-weight: 700;
+}
+
+/*  == PRODUK == */
+.daftar-produk {
+    margin-top: 165px;
+}
+
+.produk {
+    padding: 15px 10px;
+    margin: 10px 0;
+    border-top: 3px solid #00695c;
+    background-color: #fff;
+}
+
+.produk:hover {
+    background-color: #eaeaea;
+}
+
+.produk .gambar {
+    display: block;
+    width: 20%;
+    float: left;
+    padding-right: 5px;
+}
+
+.produk .gambar img {
+    width: 100%;
+}
+
+.produk .detail {
+    display: block;
+    width: 80%;
+    padding-left: 5px;
+}
+
+.produk .detail p {
+    margin: 0;
+}
+
+.nama-produk {
+    font-weight: 700;
+    font-size: medium;
+}
+
+.deskripsi-produk {
+    font-style: italic;
+    font-size: xx-small;
+}
+
+/* ===== HALAMAN END ====== */
